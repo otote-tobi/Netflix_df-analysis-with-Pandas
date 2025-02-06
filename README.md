@@ -1,7 +1,7 @@
 # Netflix_df-analysis-with-Pandas
 ## Analysis of consumer behavior from different countries on Netflix
 ## Table of Contents
-- [Project overview](Project-overview)
+- [Project overview](#Project-overview)
 - [Objectives](Objectives)
 - [Process](Process)
 - [Tools](Tools)
