@@ -2,11 +2,11 @@
 ## Analysis of consumer behavior from different countries on Netflix
 ## Table of Contents
 - [Project overview](#Project-overview)
-- [Objectives](Objectives)
-- [Process](Process)
-- [Tools](Tools)
-- [Key insights](Key_insights)
-- [Challenges and solutions](Challenges_and_solutions)
+- [Objectives](#Objectives)
+- [Process](#Process)
+- [Tools](#Tools)
+- [Key insights](#Key_insights)
+- [Challenges and solutions](#Challenges_and_solutions)
 
 ### Project overview
 Netflix consumer behavior from 10 countries within a period of Sept. 2022 to Jun3 2023 was analysed.  
