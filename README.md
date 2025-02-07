@@ -35,5 +35,6 @@ In this project, the objective was to answer the following questions:
 - correlation between age and monthly revenue  
 - trend in new user sign-ups over the months
 ### Challenges and solutions
+😄 
 
 
